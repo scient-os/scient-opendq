@@ -295,6 +295,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 **Built with ❤️ by the Scient team**
 
-[Enterprise AI](https://scient.ai)
+[Enterprise AI](https://scient.com)
 
 </div>
